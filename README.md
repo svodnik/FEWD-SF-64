@@ -79,10 +79,24 @@ Submit a pull request. -->
 
 ### <strong>Class 1</strong>: Intro to HTML (5/8)
 
-#### Resources
+#### Materials
 
 * [Slides for Class 1](./slides/FEWD-01-html-intro-slides.pdf)
 * [Handout for Class 1](./handouts/FEWD-01-html-intro-handout.pdf)
+
+#### Resources
+
+* [GitHub Enterprise](https://git.generalassemb.ly)
+* [Hoodline News](https://hoodline.com/news)
+* [Codepen](https://codepen.io)
+* [Codepen demo: structural markup](https://codepen.io/svodnik/pen/VxrRYP)
+* [Codepen demo: HTML attributes, links, & images](https://codepen.io/svodnik/pen/wjPOaX)
+* [Codepen: Lab - Practice writing HTML](https://codepen.io/svodnik/pen/QrOojJ)
+* [Mock: Lab - Practice writing HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_1.png)
+* [Mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2.png)
+* [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
+
+
 
 ### <strong>Class 2</strong>: Intro to CSS (5/10)
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
