@@ -10,42 +10,35 @@
 
 ## Final Project Milestones
 
-##### Milestone 1
-**Tuesday, May 15**
-- Project Ideas
-
-##### Milestone 2
-**Tuesday, June 5**
-- Wireframes
-
-##### Milestone 3
-**Tuesday, June 12**
-- Start HTML & CSS rough draft
-
-##### Milestone 4
-**Tuesday, June 19**
-- HTML & CSS rough draft
-
-##### Milestone 5
-**Tuesday, July 3**
-- Start JavaScript rough draft
-
-##### Milestone 6
-**Tuesday, July 10**
-- JavaScript rough draft
-
-##### Presentations
-**Tuesday, 12nd**
-- Final Project Presentations
+| # | Date | Milestone |
+| - | ---- | --------- |
+| 1 | Tuesday, May 15 | Project Ideas |
+| 2 | Tuesday, June 5 | Wireframes |
+| 3 | Tuesday, June 12 | Start HTML & CSS rough draft |
+| 4 | Tuesday, June 19 | HTML & CSS rough draft |
+| 5 | Tuesday, July 3 | Start JavaScript rough draft |
+| 6 | Tuesday, July 10 | JavaScript rough draft |
+| 7 | Thursday, July 12 | Final project presentations |  
 
 ---
  
 ## Homework Assignments
 
+all assignments due at 11:59pm on the due date
+
+| # | Due Date | Assignment |
+| - | ---- | --------- |
+| 1 | Sunday, May 13 | About Me & Portfolio pages |
+| 2 | Sunday, May 20 | Monument Magazine Blog |
+| 3 | Sunday, May 27 | Monument Magazone Landing Page |
+| 4 | Sunday, June 24 | Rock Paper Scissors & Select Fun |
+ 
+
+<!-- 
 ### Homework Assignment 1
 ##### Due Date May 13, 2018 at Midnight
-<!-- * [Assignment](https://github.com/ericmasiello/FEWD31-Assignment1) -->
-<!-- 
+* [Assignment](https://github.com/ericmasiello/FEWD31-Assignment1)
+
 ##### Submission
 
 1. Download the zip file for this repository
@@ -53,26 +46,29 @@
 3. Zip up all the files into one zip file and rename the zip to include your name (e.g. EricMasiello_Assignment1.zip, ErikaLewis_Assignment1.zip)
 4. [upload link to come] -->
 
+<!--
 ### Homework Assignment 2
 ##### Due Date May 20, 2018 at Midnight
-<!-- * [Assignment](https://github.com/ericmasiello/FEWD-Assignment2) -->
-<!-- 
+* [Assignment](https://github.com/ericmasiello/FEWD-Assignment2)
+ 
 ##### Submission
 
 Submit a pull request. -->
 
+<!-- 
 ### Homework Assignment 3
 ##### Due Date May 27, 2018 at Midnight
 
-<!-- * Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment3) to your personal repo
+* Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment3) to your personal repo
 * Clone the _your_ forked version via GitHub Desktop to your computer
 * Do the work, commit + push (publish)
 * Submit a pull request -->
 
+<!-- 
 ### Homework Assignment 4
 ##### Due Date June 24, 2018 at Midnight
 
-<!-- * Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment4) to your personal repo
+* Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment4) to your personal repo
 * Clone the _your_ forked version via GitHub Desktop to your computer
 * Do the work, commit + push (publish)
 * Submit a pull request -->
