@@ -2,8 +2,8 @@
 
 # Front End Web Development 64
 
-<!-- - [Final Project Milestones](#final-project-milestones)
-- [Homework](#homework-assignments) -->
+- [Final Project Milestones](#final-project-milestones)
+- [Homework](#homework-assignments)
 - [Classes](#classes)
 
 ---
