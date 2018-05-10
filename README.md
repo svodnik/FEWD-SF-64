@@ -107,7 +107,6 @@ Submit a pull request. -->
 * [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
 * [Download Visual Studio Code](https://code.visualstudio.com/Download)
 * [Open in Browser extension for VS Code](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
-* 
 
 
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
