@@ -34,17 +34,16 @@ all assignments due at 11:59pm on the due date
 | 4 | Sunday, June 24 | Rock Paper Scissors & Select Fun |
  
 
-<!-- 
 ### Homework Assignment 1
-##### Due Date May 13, 2018 at Midnight
-* [Assignment](https://github.com/ericmasiello/FEWD31-Assignment1)
+##### Due Date May 13, 2018 at 11:59pm
+* Make your own portfolio site. (Feel free to use the portfolio folder in the starter code as a starting point.)
+* Use the exercises we’ve done together in class as a reference
+* Share tips with your classmates and ask questions in the #homework channel on Slack.
 
 ##### Submission
-
-1. Download the zip file for this repository
-2. Complete the assignment
-3. Zip up all the files into one zip file and rename the zip to include your name (e.g. EricMasiello_Assignment1.zip, ErikaLewis_Assignment1.zip)
-4. [upload link to come] -->
+1. Create a zip file containing all the files in your site
+2. Rename your zip file to include your name (like SashaVodnik-Assignment1.zip)
+3. On Slack, create a direct message to Sasha & Aurielle, add your zip file, and send it to us.
 
 <!--
 ### Homework Assignment 2
