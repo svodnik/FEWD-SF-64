@@ -98,6 +98,8 @@ Submit a pull request. -->
 
 #### Materials
 * [Starter Code for Class 2](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
+* [Slides for Class 2](./slides/FEWD-02-css-intro-slides.pdf)
+* [Handout for Class 2](./handouts/FEWD-02-css-intro-handout.pdf)
 
 #### Resources
 
