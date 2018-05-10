@@ -102,7 +102,7 @@ Submit a pull request. -->
 
 #### Resources
 
-* [Starter Code for Class 2](./resources/02/FEWD-02-css-intro-starter-code.zip)
+* [Starter Code for Class 2](./raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
 
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
 ### <strong>Class 4</strong>: Layout (5/17)
