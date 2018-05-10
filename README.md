@@ -93,16 +93,20 @@ Submit a pull request. -->
 * [Codepen demo: HTML attributes, links, & images](https://codepen.io/svodnik/pen/wjPOaX)
 * [Codepen: Lab - Practice writing HTML](https://codepen.io/svodnik/pen/QrOojJ)
 * [Mock: Lab - Practice writing HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_1.png)
-* [Mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2.png)
-* [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
 
 ### <strong>Class 2</strong>: Intro to CSS (5/10)
 
 #### Materials
+* [Starter Code for Class 2](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
 
 #### Resources
 
-* [Starter Code for Class 2](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
+* [Mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2.png)
+* [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
+* [Download Visual Studio Code](https://code.visualstudio.com/Download)
+* [Open in Browser extension for VS Code](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+* 
+
 
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
 ### <strong>Class 4</strong>: Layout (5/17)
