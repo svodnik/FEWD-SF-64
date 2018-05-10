@@ -96,9 +96,14 @@ Submit a pull request. -->
 * [Mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2.png)
 * [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
 
-
-
 ### <strong>Class 2</strong>: Intro to CSS (5/10)
+
+#### Materials
+
+#### Resources
+
+* [Starter Code for Class 2](./resources/02/FEWD-02-css-intro-starter-code.zip)
+
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
 ### <strong>Class 4</strong>: Layout (5/17)
 ### <strong>Class 5</strong>: Grid Systems / Wireframing (5/22)
