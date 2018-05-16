@@ -5,6 +5,7 @@
 - [Final Project Milestones](#final-project-milestones)
 - [Homework](#homework-assignments)
 - [Classes](#classes)
+- [Snack signup](https://codesnacks.youcanbook.me/)
 
 ---
 
