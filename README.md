@@ -110,6 +110,17 @@ Submit a pull request. -->
 
 
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
+
+#### Materials
+* [Starter Code for Class 3](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/03/FEWD-03-css-selectors-starter-code.zip)
+* [Slides for Class 3](./slides/FEWD-03-css-selectors-slides.pdf)
+* [Handout for Class 3](./handouts/FEWD-03-css-selectors-handout.pdf)
+
+#### Resources
+
+* [Box model suburban neighborhood example](https://medium.freecodecamp.com/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1)
+
+
 ### <strong>Class 4</strong>: Layout (5/17)
 ### <strong>Class 5</strong>: Grid Systems / Wireframing (5/22)
 ### <strong>Class 6</strong>: Layout Lab (5/24)
