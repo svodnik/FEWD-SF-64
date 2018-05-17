@@ -9,12 +9,9 @@
 
 For the final project, you'll be designing and building a website of your choice. This project will test your knowledge of front-end web development and ask you to apply everything you've learned in this course. The result will be a website that you can add to your portfolio.  You could create: a portfolio website; a marketing website for a startup or business; or a prototype for a simple web-app. Work with your instructor and IA to create project goals that are realistic given the scope and timing of the class.
 
-We recommend you take a look at the [GA Gallery](http:/gallery.ga.co) for examples of past student work.
-
-
+We recommend you take a look at the [GA Gallery](https://gallery.generalassemb.ly/FEWD?metro=) for examples of past student work.
 
 ---
-
 
 ### Real-World Applications
 
@@ -27,11 +24,7 @@ We recommend you take a look at the [GA Gallery](http:/gallery.ga.co) for exampl
 - Apply knowledge gained during this course by building a website from scratch
 - Use your creativity - instructors will validate feasibility and manage scope
 
-
-<br>
-
 ---
-
 
 ### Technical Requirements
 
@@ -64,8 +57,6 @@ Your instructional team will provide feedback on how well you execute best pract
 
 - __Avoid deprecated tags__. Uses best practices and build using only supported HTML and CSS tags.
 
-<br>
-
 ---
 
 <!-- ### Timeline
@@ -86,8 +77,7 @@ You can host your final project on the web for free using GitHub pages. Watch [t
 
 ### Resources
 
-
-- http://gallery.ga.co
+- https://gallery.generalassemb.ly/FEWD?metro=
 
 
 <!-- <br>
