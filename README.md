@@ -121,11 +121,18 @@ Submit a pull request. -->
 * [Box model suburban neighborhood example](https://medium.freecodecamp.com/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1)
 
 
-### <strong>Class 4</strong>: Layout (5/17)
-### <strong>Class 5</strong>: Grid Systems / Wireframing (5/22)
+### <strong>Class 4</strong>: CSS Selectors, continued (5/17)
+
+#### Materials
+* [Starter Code for Class 4](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/04/FEWD-04-css-selectors-cont-starter-code.zip)
+* [Slides for Class 4](./slides/FEWD-04-css-selectors-cont-slides.pdf)
+* [Handout for Class 4](./handouts/FEWD-04-css-selectors-cont-handout.pdf)
+
+
+### <strong>Class 5</strong>: Layout (5/22)
 ### <strong>Class 6</strong>: Layout Lab (5/24)
-### <strong>Class 7</strong>: Responsive Design (5/29)
-### <strong>Class 8</strong>: CSS Positioning (5/31)
+### <strong>Class 7</strong>: Grid Systems & Wireframing (5/29)
+### <strong>Class 8</strong>: Responsive Design (5/31)
 ### <strong>Class 9</strong>: Forms (6/5)
 ### <strong>Class 10</strong>: Final Project Lab (6/7)
 ### <strong>Class 11</strong>: Intro to JavaScript (6/12)
