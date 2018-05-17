@@ -52,23 +52,23 @@ all assignments due at 11:59pm on the due date
 
 1. <strong>Finish the Monument Blog we started in class.</strong>
 
-  * Update the GitHub Enterprise repo you created in class with your finished files.
-  * Technical requirements:
-    * Add basic styles shown in [mocks_body.png](./resources/04/mocks_body.png).
-    * Style your text with the font styles shown in [mocks_basic.png](./resources/04/mocks_basic.png).
-    * Use indentation in your HTML and CSS files to make your code readable.
-    * Use HTML and CSS validators to check for errors before submitting.
-      * HTML: [https://html5.validator.nu/](https://html5.validator.nu/)
-      * CSS: [http://csslint.net/](http://csslint.net/)
-  * Bonus tasks:
-    * Style the <code>aside</code> section as shown in [mocks_medium.png](./resources/04/mocks_medium.png).
-    * Add the header background image shown in [mocks_advanced.png](./resources/04/mocks_advanced.png).
-    * Add FontAwesome icons to the footer as shown in [mocks_advanced.png](./resources/04/mocks_advanced.png). 
-    * Add a hover effect to the navigation items as shown in [bonus_hover.gif](./resources/04/bonus_hover.gif).
-    * Do some research on browser prefixes. What are they and why should they be used? Implement in your code.
+    * Update the GitHub Enterprise repo you created in class with your finished files.
+    * Technical requirements:
+      * Add basic styles shown in [mocks_body.png](./resources/04/mocks_body.png).
+      * Style your text with the font styles shown in [mocks_basic.png](./resources/04/mocks_basic.png).
+      * Use indentation in your HTML and CSS files to make your code readable.
+      * Use HTML and CSS validators to check for errors before submitting.
+        * HTML: [https://html5.validator.nu/](https://html5.validator.nu/)
+        * CSS: [http://csslint.net/](http://csslint.net/)
+    * Bonus tasks:
+      * Style the <code>aside</code> section as shown in [mocks_medium.png](./resources/04/mocks_medium.png).
+      * Add the header background image shown in [mocks_advanced.png](./resources/04/mocks_advanced.png).
+      * Add FontAwesome icons to the footer as shown in [mocks_advanced.png](./resources/04/mocks_advanced.png). 
+      * Add a hover effect to the navigation items as shown in [bonus_hover.gif](./resources/04/bonus_hover.gif).
+      * Do some research on browser prefixes. What are they and why should they be used? Implement in your code.
 
 2. <strong>Reading</strong>
-  * [How Flexbox works - explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.2a94vfhey)
+    * [How Flexbox works - explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.2a94vfhey)
 
 <!-- 
 ### Homework Assignment 3
