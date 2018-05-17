@@ -54,7 +54,7 @@ all assignments due at 11:59pm on the due date
 
 1. <strong>Finish the Monument Blog we started in class.</strong>
 
-    * Update the GitHub Enterprise repo you created in class with your finished files.
+    * Update the GitHub Enterprise repo you created in class with your finished files, and Slack a link to your repo to Aurielle & Sasha.
     * Technical requirements:
       * Add basic styles shown in [mocks_body.png](./resources/04/mocks_body.png).
       * Style your text with the font styles shown in [mocks_basic.png](./resources/04/mocks_basic.png).
