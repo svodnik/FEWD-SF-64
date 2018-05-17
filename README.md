@@ -50,7 +50,7 @@ all assignments due at 11:59pm on the due date
 ### Homework Assignment 2
 ##### Due Date May 20, 2018 at Midnight
 
-1. Finish the Monument Blog we started in class.
+1. <strong>Finish the Monument Blog we started in class.</strong>
 
   * Update the GitHub Enterprise repo you created in class with your finished files.
   * Technical requirements:
@@ -67,7 +67,7 @@ all assignments due at 11:59pm on the due date
     * Add a hover effect to the navigation items as shown in [bonus_hover.gif](./resources/04/bonus_hover.gif).
     * Do some research on browser prefixes. What are they and why should they be used? Implement in your code.
 
-2. Reading:
+2. <strong>Reading</strong>
   * [How Flexbox works - explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.2a94vfhey)
 
 <!-- 
