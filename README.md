@@ -11,9 +11,11 @@
 
 ## Final Project Milestones
 
+[Final Project Requirements](./resources/final-project-requirements.md)
+
 | # | Date | Milestone |
 | - | ---- | --------- |
-| 1 | Tuesday, May 15 | Project Ideas |
+| 1 | Tuesday, May 22 | Project Ideas |
 | 2 | Tuesday, June 5 | Wireframes |
 | 3 | Tuesday, June 12 | Start HTML & CSS rough draft |
 | 4 | Tuesday, June 19 | HTML & CSS rough draft |
