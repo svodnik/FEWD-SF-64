@@ -33,7 +33,7 @@ all assignments due at 11:59pm on the due date
 | - | ---- | --------- |
 | 1 | Sunday, May 13 | About Me & Portfolio pages |
 | 2 | Sunday, May 20 | Monument Magazine Blog |
-| 3 | Sunday, May 27 | Monument Magazone Landing Page |
+| 3 | Sunday, May 27 | Monument Magazine Landing Page |
 | 4 | Sunday, June 24 | Rock Paper Scissors & Select Fun |
  
 
