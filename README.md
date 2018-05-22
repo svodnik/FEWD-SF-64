@@ -162,9 +162,9 @@ all assignments due at 11:59pm on the due date
   * [Mock](https://i.imgur.com/J6qhVDn.png)
 * Lorem Ipsum generators:
   * [Lorem Ipsum](https://www.lipsum.com/)
-  * [Cat Ipsum](https://www.catipsum.com/)
-  * [Office Ipsum](https://officeipsum.com/)
-  * [Hipster Ipsum](https://https://hipsum.co/)
+  * [Cat Ipsum](http://www.catipsum.com/)
+  * [Office Ipsum](http://officeipsum.com/)
+  * [Hipster Ipsum](https://hipsum.co/)
 * [Specifics on Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 * [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance#Inheritance)
 * [Flexbox Froggy puzzle game](http://flexboxfroggy.com/)
