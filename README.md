@@ -146,7 +146,29 @@ all assignments due at 11:59pm on the due date
 * [Handout for Class 4](./handouts/FEWD-04-css-selectors-cont-handout.pdf)
 
 
-### <strong>Class 5</strong>: Layout (5/22)
+### <strong>Class 5</strong>: Layout & Grid Systems (5/22)
+
+#### Materials
+* [Starter Code for Class 5](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/05/FEWD-05-layout-starter-code.zip)
+* [Slides for Class 5](./slides/FEWD-05-layout-slides.pdf)
+* [Handout for Class 5](./handouts/FEWD-05-layout-handout.pdf)
+
+#### Resources
+
+* [Codealong: Flexbox layout system](https://codepen.io/svodnik/pen/WJWbZP?editors=1100#0)
+* [Codealong: Other flexbox properties](https://codepen.io/svodnik/pen/yjrypB?editors=1100)
+* Lab: Flexbox practice
+  * [Starting code](https://codepen.io/svodnik/pen/wjZBjR)
+  * [Mock](https://i.imgur.com/J6qhVDn.png)
+* Lorem Ipsum generators:
+  * [Lorem Ipsum](https://www.lipsum.com/)
+  * [Cat Ipsum](https://www.catipsum.com/)
+  * [Office Ipsum](https://officeipsum.com/)
+  * [Hipster Ipsum](https://https://hipsum.co/)
+* [Specifics on Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance#Inheritance)
+* [Flexbox Froggy puzzle game](http://flexboxfroggy.com/)
+
 ### <strong>Class 6</strong>: Layout Lab (5/24)
 ### <strong>Class 7</strong>: Grid Systems & Wireframing (5/29)
 ### <strong>Class 8</strong>: Responsive Design (5/31)
