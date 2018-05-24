@@ -81,7 +81,7 @@ all assignments due at 11:59pm on the due date
     * Create a new GitHub Enterprise repo named <code>FEWD-SF-64-Homework-3</code>, upload your finished files, then Slack a link to your repo to Aurielle & Sasha.
     * Technical requirements:
       * Add the Google fonts identified in the mock.
-      * Add the [FontAwesome](https://fontawesome.io) icons.
+      * Add the [FontAwesome](https://fontawesome.com) icons.
       * Structure the HTML using HTML5 semantic elements.
       * Add basic styles shown in [monument_lab.png](./resources/06/monument_lab.png).
       * Create the multicolumn layout shown in the mock.
@@ -174,12 +174,6 @@ all assignments due at 11:59pm on the due date
 * [Codealong: Other flexbox properties](https://codepen.io/svodnik/pen/yjrypB?editors=1100)
 * Lab: Flexbox practice
   * [Starting code](https://codepen.io/svodnik/pen/wjZBjR)
-  * [Mock](https://i.imgur.com/J6qhVDn.png)
-* Lorem Ipsum generators:
-  * [Lorem Ipsum](https://www.lipsum.com/)
-  * [Cat Ipsum](http://www.catipsum.com/)
-  * [Office Ipsum](http://officeipsum.com/)
-  * [Hipster Ipsum](https://hipsum.co/)
 * [Specifics on Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 * [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance#Inheritance)
 * [Flexbox Froggy puzzle game](http://flexboxfroggy.com/)
@@ -194,7 +188,6 @@ all assignments due at 11:59pm on the due date
 #### Resources
 
 * Lab: Flexbox practice
-  * [Starting code](https://codepen.io/svodnik/pen/wjZBjR)
   * [Mock](https://i.imgur.com/J6qhVDn.png)
 * Lorem Ipsum generators:
   * [Lorem Ipsum](https://www.lipsum.com/)
