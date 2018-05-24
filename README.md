@@ -182,6 +182,7 @@ all assignments due at 11:59pm on the due date
 
 #### Materials
 * [Starter Code for Class 6](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/06/FEWD-06-lab-starter-code.zip)
+* [ALT Starter Code for Class 6](./../../raw/master/resources/06/FEWD-06-lab-starter-code.zip)
 * [Slides for Class 6](./slides/FEWD-06-lab-slides.pdf)
 * [Handout for Class 6](./handouts/FEWD-06-lab-handout.pdf)
 
