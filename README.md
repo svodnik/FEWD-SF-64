@@ -72,14 +72,29 @@ all assignments due at 11:59pm on the due date
 2. <strong>Reading</strong>
     * [How Flexbox works - explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.2a94vfhey)
 
-<!-- 
+
 ### Homework Assignment 3
 ##### Due Date May 27, 2018 at Midnight
 
-* Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment3) to your personal repo
-* Clone the _your_ forked version via GitHub Desktop to your computer
-* Do the work, commit + push (publish)
-* Submit a pull request -->
+1. <strong>Finish the Monument landing page we started in class.</strong>
+
+    * Create a new GitHub Enterprise repo named <code>FEWD-SF-64-Homework-3</code>, upload your finished files, then Slack a link to your repo to Aurielle & Sasha.
+    * Technical requirements:
+      * Add the Google fonts identified in the mock.
+      * Add the [FontAwesome](https://fontawesome.io) icons.
+      * Structure the HTML using HTML5 semantic elements.
+      * Add basic styles shown in [monument_lab.png](./resources/06/monument_lab.png).
+      * Create the multicolumn layout shown in the mock.
+      * Use indentation in your HTML and CSS files to make your code readable.
+      * Use HTML and CSS validators to check for errors before submitting.
+        * HTML: [https://html5.validator.nu/](https://html5.validator.nu/)
+        * CSS: [http://csslint.net/](http://csslint.net/)
+    * Bonus tasks:
+      * Add a hover effect to anchors, buttons, social media icons (see [navigation animation](./resources/06/navigation_on_hover.gif) and [button animation](./resources/06/buttons_on_hover.gif)). Extra bonus: Look up "transition effect hover CSS” to add a smoother transition to hover effects.
+      * Create a fixed background effect on scroll for header image (see [animation](./resources/06/fixed_background_on_scroll.gif)). Google “background-attachment CSS”
+      * Turn the nav into a "sticky nav" so that it stays fixed while the user scrolls (see [animation](./resources/06/sticky_nav_on_scroll.gif)). Google “position CSS”
+      * Add an effect to the images in the gallery on hover (see [animation](./resources/06/gallery_image_on_hover.gif)).
+      * Implement "Jump Links" so that clicking on a nav item jumps you to that section of the page. Google “Jump Links HTML”
 
 <!-- 
 ### Homework Assignment 4
@@ -146,7 +161,7 @@ all assignments due at 11:59pm on the due date
 * [Handout for Class 4](./handouts/FEWD-04-css-selectors-cont-handout.pdf)
 
 
-### <strong>Class 5</strong>: Layout & Grid Systems (5/22)
+### <strong>Class 5</strong>: Layout (5/22)
 
 #### Materials
 * [Starter Code for Class 5](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/05/FEWD-05-layout-starter-code.zip)
@@ -170,8 +185,26 @@ all assignments due at 11:59pm on the due date
 * [Flexbox Froggy puzzle game](http://flexboxfroggy.com/)
 
 ### <strong>Class 6</strong>: Layout Lab (5/24)
-### <strong>Class 7</strong>: Grid Systems & Wireframing (5/29)
-### <strong>Class 8</strong>: Responsive Design (5/31)
+
+#### Materials
+* [Starter Code for Class 6](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/06/FEWD-06-lab-starter-code.zip)
+* [Slides for Class 6](./slides/FEWD-06-lab-slides.pdf)
+* [Handout for Class 6](./handouts/FEWD-06-lab-handout.pdf)
+
+#### Resources
+
+* Lab: Flexbox practice
+  * [Starting code](https://codepen.io/svodnik/pen/wjZBjR)
+  * [Mock](https://i.imgur.com/J6qhVDn.png)
+* Lorem Ipsum generators:
+  * [Lorem Ipsum](https://www.lipsum.com/)
+  * [Cat Ipsum](http://www.catipsum.com/)
+  * [Office Ipsum](http://officeipsum.com/)
+  * [Hipster Ipsum](https://hipsum.co/)
+* [Removing unused selectors with Google Chrome Tool](http://blackbe.lt/removing-unused-css-selectors-with-google-chrome-tool/)
+
+### <strong>Class 7</strong>: Grid Systems & Responsive Design (5/29)
+### <strong>Class 8</strong>: CSS Positioning (5/31)
 ### <strong>Class 9</strong>: Forms (6/5)
 ### <strong>Class 10</strong>: Final Project Lab (6/7)
 ### <strong>Class 11</strong>: Intro to JavaScript (6/12)
@@ -181,6 +214,6 @@ all assignments due at 11:59pm on the due date
 ### <strong>Class 15</strong>: Interactions Lab (cont'd) (6/26)
 ### <strong>Class 16</strong>: Final Project Lab (6/28)
 ### <strong>Class 17</strong>: Interactions Lab II (7/3)
-### <strong>Class 18</strong>: Interactions Lab II (cont'd) (7/5)
+### <strong>Class 18</strong>: Advanced JavaScript (7/5)
 ### <strong>Class 19</strong>: Final Project Lab (7/10)
 ### <strong>Class 20</strong>: Presentations (7/12)
