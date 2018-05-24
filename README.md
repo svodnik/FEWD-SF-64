@@ -124,19 +124,19 @@ all assignments due at 11:59pm on the due date
 * [Codepen demo: structural markup](https://codepen.io/svodnik/pen/VxrRYP)
 * [Codepen demo: HTML attributes, links, & images](https://codepen.io/svodnik/pen/wjPOaX)
 * [Codepen: Lab - Practice writing HTML](https://codepen.io/svodnik/pen/QrOojJ)
-* [Mock: Lab - Practice writing HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_1.png)
+* [Mock: Lab - Practice writing HTML](./resources/01/part_1.png)
 
 ### <strong>Class 2</strong>: Intro to CSS (5/10)
 
 #### Materials
-* [Starter Code for Class 2](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
+* [Starter Code for Class 2](./../../raw/master/resources/02/FEWD-02-css-intro-starter-code.zip)
 * [Slides for Class 2](./slides/FEWD-02-css-intro-slides.pdf)
 * [Handout for Class 2](./handouts/FEWD-02-css-intro-handout.pdf)
 
 #### Resources
 
-* [Mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2.png)
-* [Advanced mock: Lab - Add CSS to your HTML](https://git.generalassemb.ly/vodnik/FEWD-SF-64/blob/master/resources/01/part_2_advanced.png)
+* [Mock: Lab - Add CSS to your HTML](./resources/01/part_2.png)
+* [Advanced mock: Lab - Add CSS to your HTML](./resources/01/part_2_advanced.png)
 * [Download Visual Studio Code](https://code.visualstudio.com/Download)
 * [Open in Browser extension for VS Code](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 
@@ -144,7 +144,7 @@ all assignments due at 11:59pm on the due date
 ### <strong>Class 3</strong>: CSS Selectors (5/15)
 
 #### Materials
-* [Starter Code for Class 3](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/03/FEWD-03-css-selectors-starter-code.zip)
+* [Starter Code for Class 3](./../../raw/master/resources/03/FEWD-03-css-selectors-starter-code.zip)
 * [Slides for Class 3](./slides/FEWD-03-css-selectors-slides.pdf)
 * [Handout for Class 3](./handouts/FEWD-03-css-selectors-handout.pdf)
 
@@ -156,7 +156,7 @@ all assignments due at 11:59pm on the due date
 ### <strong>Class 4</strong>: CSS Selectors, continued (5/17)
 
 #### Materials
-* [Starter Code for Class 4](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/04/FEWD-04-css-selectors-cont-starter-code.zip)
+* [Starter Code for Class 4](./../../raw/master/resources/04/FEWD-04-css-selectors-cont-starter-code.zip)
 * [Slides for Class 4](./slides/FEWD-04-css-selectors-cont-slides.pdf)
 * [Handout for Class 4](./handouts/FEWD-04-css-selectors-cont-handout.pdf)
 
@@ -164,7 +164,7 @@ all assignments due at 11:59pm on the due date
 ### <strong>Class 5</strong>: Layout (5/22)
 
 #### Materials
-* [Starter Code for Class 5](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/05/FEWD-05-layout-starter-code.zip)
+* [Starter Code for Class 5](./../../raw/master/resources/05/FEWD-05-layout-starter-code.zip)
 * [Slides for Class 5](./slides/FEWD-05-layout-slides.pdf)
 * [Handout for Class 5](./handouts/FEWD-05-layout-handout.pdf)
 
@@ -181,8 +181,7 @@ all assignments due at 11:59pm on the due date
 ### <strong>Class 6</strong>: Layout Lab (5/24)
 
 #### Materials
-* [Starter Code for Class 6](https://git.generalassemb.ly/vodnik/FEWD-SF-64/raw/master/resources/06/FEWD-06-lab-starter-code.zip)
-* [ALT Starter Code for Class 6](./../../raw/master/resources/06/FEWD-06-lab-starter-code.zip)
+* [Starter Code for Class 6](./../../raw/master/resources/06/FEWD-06-lab-starter-code.zip)
 * [Slides for Class 6](./slides/FEWD-06-lab-slides.pdf)
 * [Handout for Class 6](./handouts/FEWD-06-lab-handout.pdf)
 
