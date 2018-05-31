@@ -197,7 +197,17 @@ all assignments due at 11:59pm on the due date
 * [Removing unused selectors with Google Chrome Tool](http://blackbe.lt/removing-unused-css-selectors-with-google-chrome-tool/)
 
 ### <strong>Class 7</strong>: Grid Systems & Responsive Design (5/29)
+
+#### Materials
+* [Slides for Class 7](./slides/FEWD-07-responsive-slides.pdf)
+* [Handout for Class 7](./handouts/FEWD-07-responsive-handout.pdf)
+
 ### <strong>Class 8</strong>: CSS Positioning (5/31)
+
+#### Materials
+* [Slides for Class 8](./slides/FEWD-08-positioning-slides.pdf)
+* [Handout for Class 8](./handouts/FEWD-08-positioning-handout.pdf)
+
 ### <strong>Class 9</strong>: Forms (6/5)
 ### <strong>Class 10</strong>: Final Project Lab (6/7)
 ### <strong>Class 11</strong>: Intro to JavaScript (6/12)
