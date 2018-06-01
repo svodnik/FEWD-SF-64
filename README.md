@@ -96,14 +96,34 @@ all assignments due at 11:59pm on the due date
       * Add an effect to the images in the gallery on hover (see [animation](./resources/06/gallery_image_on_hover.gif)).
       * Implement "Jump Links" so that clicking on a nav item jumps you to that section of the page. Google “Jump Links HTML”
 
-<!-- 
 ### Homework Assignment 4
-##### Due Date June 24, 2018 at Midnight
+##### Due Date June 4, 2018 at Midnight
 
-* Fork the [assignment](https://github.com/ericmasiello/FEWD-Assignment4) to your personal repo
-* Clone the _your_ forked version via GitHub Desktop to your computer
-* Do the work, commit + push (publish)
-* Submit a pull request -->
+#### Final Project Wireframes
+
+##### Deliverables (Slack zip file to Sasha & Aurielle):
+  * Descriptive overview
+  * Project wireframes
+
+##### Technical Requirements:
+* Project overview consists of a couple of paragraphs describing your project.
+* Wireframes 
+    * are drawn or computer rendered.
+    * illustrate what you'd like to do for your final project.
+    * contain detailed annotations describing what each part of each page will do.
+
+##### How to create wireframes:
+* Option 1: Use a tool like wireframe.cc for creating wireframes.
+* Option 2: Draw out wireframes and scan or take a picture of them.
+* Option 3: Designer? Feel free to use Photoshop/InDesign/etc. to create wireframes.
+
+##### Examples of wireframes:
+
+[Example 1](https://svodnik.github.io/fewd54/resources/project_proposal_1.pdf)
+[Example 2](https://svodnik.github.io/fewd54/resources/project_proposal_2.jpg)
+[Example 3](https://svodnik.github.io/fewd54/resources/project_proposal_3.pdf)
+[Example 4](https://svodnik.github.io/fewd54/resources/project_proposal_4.pdf)
+[Example 5](https://svodnik.github.io/fewd54/resources/project_proposal_5.pdf) 
 
 ---
 
