@@ -113,7 +113,7 @@ all assignments due at 11:59pm on the due date
     * contain detailed annotations describing what each part of each page will do.
 
 ##### How to create wireframes:
-* Option 1: Use a tool like wireframe.cc for creating wireframes.
+* Option 1: Use a tool like [wireframe.cc](https://wireframe.cc) for creating wireframes.
 * Option 2: Draw out wireframes and scan or take a picture of them.
 * Option 3: Designer? Feel free to use Photoshop/InDesign/etc. to create wireframes.
 
